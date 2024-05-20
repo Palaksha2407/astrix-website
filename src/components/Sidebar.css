@@ -1,0 +1,16 @@
+.sidebar {
+    background-color: #3623b7;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    writing-mode: vertical-rl;
+    text-align: center;
+  }
+  
+  .vertical-text {
+    transform: rotate(180deg);
+  }
+  

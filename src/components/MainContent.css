@@ -1,0 +1,32 @@
+.main-content {
+    background-color: #1a1a1a;
+    color: #fff;
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .event-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .actions button {
+    background-color: #4a4a4a;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .actions button:hover {
+    background-color: #666;
+  }
+  

@@ -1,0 +1,50 @@
+.event-details {
+    background-color: #2a2a2a;
+    color: #fff;
+    padding: 20px;
+    flex: 1;
+  }
+  
+  .event-info {
+    margin-top: 20px;
+  }
+  
+  .artist-lineup {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .join-waitlist {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: #ffcc00;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #e6b800;
+  }
+  
+  .artistLeft {
+    width: 145px;
+    height: 150px;
+  }
+  .artistRight {
+    width: 145px;
+    height: 150px;
+  }
+  .artistMid {
+    width: 192px;
+    height: 192px;
+  }
+  .artistQr {
+    width: 100px;
+    height: 100px;
+  }
